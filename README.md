@@ -1,6 +1,6 @@
 # Design Document
 
-[Demo video](https://youtu.be/pWvqf_y-e_Y)
+[Demo video on YouTube](https://youtu.be/pWvqf_y-e_Y)
 
 ## Scope
 
